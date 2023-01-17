@@ -1,0 +1,27 @@
+@use "sass:math";
+
+// TAILWIND
+// @tailwind base;
+// @tailwind components;
+// @tailwind utilities;
+
+// CONFIGURATION AND HELPERS
+@import "abstracts/mixins";
+@import "abstracts/functions";
+@import "abstracts/variables";
+
+// BASE STUFF
+@import "base/null";
+// @import "base/base";
+// @import "base/typography";
+// @import "base/animation";
+// @import "base/forms/__forms";
+
+// COMPONENTS
+// @import "base/components/__components";
+
+// PARTIALS
+// @import "base/partials/__partials";
+
+// LAYOUT-SPECIFIC STYLES
+// @import "base/layouts/__pages";
